@@ -1,0 +1,11 @@
+[
+	{ "keys": ["ctrl+,"], "command": "append_symbol", "args": {"symb": ","} }, 
+	{ "keys": ["ctrl+alt+,"], "command": "append_symbol", "args": {"symb": ",", "callback": "jumpToEOL"} },
+	{ "keys": ["ctrl+shift+,"], "command": "append_symbol", "args": {"symb": ",", "callback": "addLine"} },
+	{ "keys": ["ctrl+."], "command": "append_symbol", "args": {"symb": "."} }, 
+	{ "keys": ["ctrl+alt+."], "command": "append_symbol", "args": {"symb": ".", "callback": "jumpToEOL"} },
+	{ "keys": ["ctrl+shift+."], "command": "append_symbol", "args": {"symb": ".", "callback": "addLine"} },
+	{ "keys": ["ctrl+;"], "command": "append_symbol", "args": {"symb": ";"} }, 
+	{ "keys": ["ctrl+alt+;"], "command": "append_symbol", "args": {"symb": ";", "callback": "jumpToEOL"} },
+	{ "keys": ["ctrl+shift+;"], "command": "append_symbol", "args": {"symb": ";", "callback": "addLine"} }
+]
