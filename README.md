@@ -31,7 +31,7 @@ To use callbacks define one of them at "args" key
 
 `{ "keys": ["ctrl+#"], "command": "append_symbol", "args": {"symb": "#", "callback": "*"} }`
 
-Where are "*" one of two callbacks:
+Where are "*" - one of two callbacks:
 + "jumpToEOL"
 + "addLine"
 
