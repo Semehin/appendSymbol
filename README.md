@@ -10,7 +10,7 @@ Also it can jump to EOL or add new line after appending symbol.
 + <kbd>Ctrl</kbd>+<kbd>shift</kbd>+<kbd>;</kbd> - appends ";" to EOL and adds new line below and jumps there
 
 ### Mac
-Same as linux & windows but <kbd>Super</kbd> instead of <kbd>Ctrl</kbd>.
+Same as linux & windows but use <kbd>Super</kbd> instead of <kbd>Ctrl</kbd>.
 
 ### Symbols
 There are three predefined symbols which you can use with default hotkeys above: 
