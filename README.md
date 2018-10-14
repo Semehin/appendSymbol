@@ -36,7 +36,7 @@ Where are "*" - one of two callbacks:
 + "addLine"
 
 ## Installation
-Ddownload and extract it into your Sublime Text Packages folder.
+Download and extract it into your Sublime Text Packages folder.
 
 ## Inspired by
 [AppendSemiColon](https://github.com/MauriceZ/AppendSemiColon)
