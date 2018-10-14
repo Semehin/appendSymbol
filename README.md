@@ -42,4 +42,4 @@ Download and extract it into your Sublime Text Packages folder.
 [AppendSemiColon](https://github.com/MauriceZ/AppendSemiColon)
 
 ## License
-MIT
+MIT © [INHQ.PRO](https://inhq.pro)
